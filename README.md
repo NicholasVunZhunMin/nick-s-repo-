@@ -4,8 +4,8 @@
 
 作業2 https://github.com/NicholasVunZhunMin/taipeidashboard
 
---- AItest https://github.com/NicholasVunZhunMin/taipeidashboard/blob/main/app/(tabs)/AItest.tsx
+           --- AItest https://github.com/NicholasVunZhunMin/taipeidashboard/blob/main/app/(tabs)/AItest.tsx
 
---- 影片
+           --- 影片
 
-作業3
+作業3 https://github.com/NicholasVunZhunMin/portfolio
