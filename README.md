@@ -6,6 +6,6 @@
 
            --- AItest https://github.com/NicholasVunZhunMin/taipeidashboard/blob/main/app/(tabs)/AItest.tsx
 
-           --- 影片
+           --- 影片 https://youtu.be/RDMocfvTcyg?si=ZmzPD5RDS2J1s1zQ
 
 作業3 https://github.com/NicholasVunZhunMin/portfolio
