@@ -8,4 +8,4 @@
 
 作業3 [PORTFOLIO](https://github.com/NicholasVunZhunMin/portfolio)
 
-- 作業3加分作業 
+- [作業3加分作業](https://github.com/NicholasVunZhunMin/assignment-3-bonus) 
